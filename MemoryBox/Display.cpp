@@ -303,10 +303,10 @@ void menu_musica8()
 
 void menu_especial()
 {
-    u8g2.drawStr(0,5, "  Memory Box");
-    u8g2.drawStr(0,20, "The Box who is");
-    u8g2.drawStr(0,35, "   always");  
-    u8g2.drawStr(0, 50, "by your side");
+    u8g2.drawStr(25,5, "  Memory Box");
+    u8g2.drawStr(25,20, "The Box who is");
+    u8g2.drawStr(27,35, "   always");  
+    u8g2.drawStr(27, 50, "by your side");
 }
 
 void draw()
