@@ -94,7 +94,7 @@ void inicializa_clima()
         temp = ((JSON.stringify(temperatura)).substring(2,0));
         if((JSON.stringify(temperatura)) == "false" || (isDigit(((JSON.stringify(temperatura)).substring(2,0)).c_str())) == 0)
         {
-            Serial.println("Erro atualiza clima");
+            Serial.println("Erro atualiza clima 1");
             atualiza_clima();    
         }
     }
@@ -117,7 +117,7 @@ void atualiza_clima()
 
     if((JSON.stringify(temperatura)) == "false" || (isDigit(((JSON.stringify(temperatura)).substring(2,0)).c_str())) == 0)
     {
-      Serial.println("Erro atualzia clima");
+      Serial.println("Erro atualiza clima 2");
       atualiza_clima();    
     }
 }
@@ -126,7 +126,7 @@ void verifica_clima()
 {
     if((JSON.stringify(temperatura)) == "false" || (isDigit(((JSON.stringify(temperatura)).substring(2,0)).c_str())) == 0)
     {
-      Serial.println("Erro atualzia clima AQUIII");
+      Serial.println("Erro atualzia clima 3");
       atualiza_clima();    
     }  
 }
@@ -303,10 +303,10 @@ void menu_musica8()
 
 void menu_especial()
 {
-    u8g2.drawStr(0,5, "Feliz Aniversario,");
-    u8g2.drawStr(0,20, "amor. Aproveite");
-    u8g2.drawStr(0,35, "o presente!");  
-    u8g2.drawStr(0, 50, "Te amo! <3");
+    u8g2.drawStr(0,5, "  Memory Box");
+    u8g2.drawStr(0,20, "The Box who is");
+    u8g2.drawStr(0,35, "   always");  
+    u8g2.drawStr(0, 50, "by your side");
 }
 
 void draw()
