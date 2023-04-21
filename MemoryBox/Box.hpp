@@ -12,10 +12,10 @@
 #include <Wire.h>
 #endif
 
-#define BOTtoken "5967903288:AAFtl9LXEiuOHNe8goJzHhdf3kqYX3aUbLY"  
-#define CHAT_ID "1716025024"
-#define WIFI_User "-2.4G"
-#define WIFI_PW "z^C9Mjn7@vRNqR3dH2#t"
+#define BOTtoken "TOKENBOTTELEGRAM"  
+#define CHAT_ID "CHATBOTTELEGRAM"
+#define WIFI_User "NOMEWIFI"
+#define WIFI_PW "SENHAWIFI"
 
 #define BUZZER 16
 
