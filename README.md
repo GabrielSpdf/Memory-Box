@@ -7,11 +7,22 @@
 
 <img src="https://github.com/GabrielSpdf/Memory-Box/blob/main/assets/menu_especial.jpg" width = 300> <img src="https://github.com/GabrielSpdf/Memory-Box/blob/main/assets/menu_principal.jpg" width = 300> <img src="https://github.com/GabrielSpdf/Memory-Box/blob/main/assets/menu_musica.jpg" width = 300>
 
-> #### 1ª imagem: Menu Especial <br /> 
-> #### 2ª imagem: Menu Principal <br />
-> #### 3ª imagem: Menu das Músicas <br />
+> #### 1ª imagem: Modo de Certificação <br /> 
+> #### 2ª imagem: Modo Principal <br />
+> #### 3ª imagem: Modo de Música <br />
 
 ---
+
+## *Operando a caixa*
+### A tela inicial da caixa mostra informações sobre o dia, onde seu objetivo é ser algo útil e informativo durante o dia-a-dia (2ª imagem)
+### Seguindo adiante, os botões azuis na caixa são para a troca de modo, havendo o modo de música e o modo de certificação
+### • Modo de Música (3ª imagem)
+#### O botão azul do lado esquerdo ativa o modo de música, onde é mostrado todas as músicas existentes na caixa. Neste modo, você pode utilizar os botões de cor branca para trocar/selecionar a música.
+> #### O usuário se localiza em qual música está a partir de um ícone de nota músical posicionado ao lado esquerdo do nome da música
+#### Selecionando a música desejada, a caixa começará a tocar a música e o sistema só será operável novamente após o término da música
+### • Modo de Certificação (1ª imagem)
+#### O botão azul do lado direito ativa o modo de certificação, onde é mostrado ao usuário o nome da caixa e sua frase emblemática: "Memory Box, the Box who is always by your side"
+
 
 ##### *Para acessar a demonstração, acesse: [demonstração](https://youtube.com/shorts/uHrE1Ooihzk)*
 
