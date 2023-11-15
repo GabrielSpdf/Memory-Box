@@ -33,7 +33,7 @@ Este modo mostra ao usuário o nome da caixa e sua frase emblemática: "Memory B
 
 *Para acessar a demonstração, acesse: [demonstração](https://youtube.com/shorts/uHrE1Ooihzk)*
 
-*Para acessar o esquemático do projeto, acesse: <a href="assets/EsquematicoMemoryBox.pdf" target="_blank">esquemático</a>
+*Para acessar o esquemático do projeto, acesse: <a href="assets/esquematico-memory-box.pdf" target="_blank">esquemático</a>
 
 *Para mais informações a respeito da criação de músicas, acesse: [referência](https://dragaosemchama.com/2019/04/musicas-para-arduino-a-partir-da-partitura/)*
 
