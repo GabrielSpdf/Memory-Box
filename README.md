@@ -1,32 +1,39 @@
-# Memory Box
-## *A caixa das memórias*
-### Projeto criado com o intuito de ter uma pequena caixa em sua mesa que te informe os dados do dia, como tempo e horário, e que, além de tudo, te permita a escutar memoráveis músicas. Certamente, uma memorável caixa.
+# Memory Box ![Project Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+_Conheça seu melhor amigo do dia-a-dia: Imagine uma caixa que não só te informa sobre o tempo e o horário, mas também te leva a uma viagem sonora com músicas memoráveis. Não é apenas uma caixa, é a sua própria fonte de entretenimento e informação diária. É hora de trazer um toque de magia para sua mesa!_ 🎵📦✨
 
 
 ---
 
-<img src="https://github.com/GabrielSpdf/Memory-Box/blob/main/assets/menu_especial.jpg" width = 300> <img src="https://github.com/GabrielSpdf/Memory-Box/blob/main/assets/menu_principal.jpg" width = 300> <img src="https://github.com/GabrielSpdf/Memory-Box/blob/main/assets/menu_musica.jpg" width = 300>
+## *Modos*
 
-> #### 1ª imagem: Modo de Certificação <br /> 
-> #### 2ª imagem: Modo Principal <br />
-> #### 3ª imagem: Modo de Música <br />
+<img src="https://github.com/GabrielSpdf/Memory-Box/blob/main/assets/menu_principal.jpg" width = 300> <img src="https://github.com/GabrielSpdf/Memory-Box/blob/main/assets/menu_musica.jpg" width = 300> <img src="https://github.com/GabrielSpdf/Memory-Box/blob/main/assets/menu_especial.jpg" width = 300>  
+
+> <pre>1ª imagem: Modo Principal 
+> 2ª imagem: Modo de Música 
+> 3ª imagem: Modo de Certificação</pre>
 
 ---
 
 ## *Operando a caixa*
-### A tela inicial da caixa mostra informações sobre o dia, onde seu objetivo é ser algo útil e informativo durante o dia-a-dia (2ª imagem)
-### Seguindo adiante, os botões azuis na caixa são para a troca de modo, havendo o modo de música e o modo de certificação
-### • Modo de Música (3ª imagem)
-#### O botão azul do lado esquerdo ativa o modo de música, onde é mostrado todas as músicas existentes na caixa. Neste modo, você pode utilizar os botões de cor branca para trocar/selecionar a música.
-> #### O usuário se localiza em qual música está a partir de um ícone de nota músical posicionado ao lado esquerdo do nome da música
-#### Selecionando a música desejada, a caixa começará a tocar a música e o sistema só será operável novamente após o término da música
-### • Modo de Certificação (1ª imagem)
-#### O botão azul do lado direito ativa o modo de certificação, onde é mostrado ao usuário o nome da caixa e sua frase emblemática: "Memory Box, the Box who is always by your side"
+### • Modo Principal (1ª imagem)
+Este modo mostra informações gerais sobre o dia, onde seu objetivo é ser algo útil e informativo durante o dia-a-dia. <br /> 
+### • Modo de Música (2ª imagem)
+Este modo mostra todas as músicas existentes na caixa. Você pode utilizar os botões de cor branca para trocar/selecionar a música. 
+> [!NOTE]
+> O usuário se localiza em qual música está a partir de um ícone de nota musical posicionado ao lado esquerdo do nome da música.
+Selecionando a música desejada, a caixa começará a tocar a música, e o sistema só será operável novamente após o término da música <br />
+### • Modo de Certificação (3ª imagem)
+Este modo mostra ao usuário o nome da caixa e sua frase emblemática: "Memory Box, the Box who is always by your side".
 
 
-##### *Para acessar a demonstração, acesse: [demonstração](https://youtube.com/shorts/uHrE1Ooihzk)*
+> [!IMPORTANT]
+> A troca de modo acontece pelo acionamento dos botões azuis, sendo o da esquerda para o Modo de Música e o da direita para o Modo de Certificação
 
-##### *Para mais informações a respeito da criação de músicas, acesse: [referência](https://dragaosemchama.com/2019/04/musicas-para-arduino-a-partir-da-partitura/)*
+
+
+*Para acessar a demonstração, acesse: [demonstração](https://youtube.com/shorts/uHrE1Ooihzk)*
+
+*Para mais informações a respeito da criação de músicas, acesse: [referência](https://dragaosemchama.com/2019/04/musicas-para-arduino-a-partir-da-partitura/)*
 
 
 
